@@ -1,7 +1,10 @@
-.choresText {
-   color: black;
-}
-
-.choresHeading {
-   color: black;
-}
+.choreText {
+   color: darkgreen; /* or any color except black */
+   font-size: 20px; /* adjust font size as needed */
+   text-decoration: underline; /* add underline to heading */
+ }
+ 
+ .choreListItem {
+   color: blue; /* or any color except black */
+   font-style: italic; /* italicize the chore items */
+ }
