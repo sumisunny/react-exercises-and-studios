@@ -36,11 +36,3 @@
     transform: rotate(360deg);
   }
 }
-
-.similarComponents {
-  display:flex;
-justify-content:space-between;
-border-style: dotted;
-background-color: aquamarine;
-
-}
