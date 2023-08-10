@@ -1,0 +1,35 @@
+{
+    "projects": [
+      {
+        "title": "Cozy Sweater",
+        "description": "Knitting a warm and stylish sweater for the winter season.",
+        "image": "Sweater.webp",
+        "link": "https://www.thesprucecrafts.com/easy-knitting-patterns-for-new-knitters-2116495"
+      },
+      {
+        "title": "Colorful Blanket",
+        "description": "Creating a vibrant and cozy blanket with intricate patterns.",
+        "image": "Blanket.webp",
+        "link": "https://www.thesprucecrafts.com/easy-knitting-patterns-for-new-knitters-2116495"
+      },
+      {
+        "title": "Beanie Collection",
+        "description": "Designing a collection of trendy beanies with various textures.",
+        "image": "Beanies.webp",
+        "link": "https://www.thesprucecrafts.com/easy-knitting-patterns-for-new-knitters-2116495"
+      },
+      {
+        "title": "Cable Knit Scarf",
+        "description": "Crafting an elegant cable knit scarf as a thoughtful gift.",
+        "image": "Scarf.webp",
+        "link": "https://www.thesprucecrafts.com/easy-knitting-patterns-for-new-knitters-2116495"
+      },
+      {
+        "title": "Amigurumi Creations",
+        "description": "Making adorable amigurumi characters for creative display.",
+        "image": "amigurumi.webp",
+        "link": "https://www.thesprucecrafts.com/easy-knitting-patterns-for-new-knitters-2116495"
+      }
+    ]
+  }
+  
